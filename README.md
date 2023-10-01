@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Feng, a first year Computer Science student at the University of Waterloo!
+
+I'm currently working on finishing my personal website, more to come soon!
+
+If you need to reach me, feel free to email: [yunfengzhang789@gmail.com](mailto:yunfengzhang789@gmail.com).
 <!--
 **fengzhang789/fengzhang789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
