@@ -2,7 +2,7 @@
 
 I'm Feng, a first year Computer Science student at the University of Waterloo!
 
-I'm currently working on my personal project, EasyEvent!
+When I'm not busy with school work, you can likely catch me building side projects or reading a good book. Feel free to reachout with any inquiries!
 
 If you need to reach me, feel free to email: [yunfengzhang789@gmail.com](mailto:yunfengzhang789@gmail.com).
 <!--
