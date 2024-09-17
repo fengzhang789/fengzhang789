@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Feng, a first year Computer Science student at the University of Waterloo!
+I'm Feng, a second year Computer Science student at the University of Waterloo!
 
 When I'm not busy with school work, you can likely catch me building side projects or reading a good book. Feel free to reachout with any inquiries!
 
