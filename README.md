@@ -2,7 +2,7 @@
 
 I'm Feng, a second year Computer Science student at the University of Waterloo!
 
-When I'm not busy with school work, you can likely catch me building side projects or reading a good book. Feel free to reachout with any inquiries!
+When I'm not busy with school work, you can likely catch me building side projects or reading a good book.
 
 If you need to reach me, feel free to email: [feng.zhang1@uwaterloo.ca](mailto:feng.zhang1@uwaterloo.ca).
 <!--
