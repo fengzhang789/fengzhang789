@@ -2,9 +2,11 @@
 
 I'm Feng, a second year Computer Science student at the University of Waterloo!
 
-When I'm not busy with school work, you can likely catch me building side projects or reading a good book. Check out my website: [https://www.fengzhang.work/](https://www.fengzhang.work/).
+When I'm not busy with school work, you can likely catch me building side projects or reading a good book. 
 
-If you need to reach me, feel free to email: [feng.zhang1@uwaterloo.ca](mailto:feng.zhang1@uwaterloo.ca)!
+Check out my website: [https://www.fengzhang.work/](https://www.fengzhang.work/).
+
+If you need to reach me, feel free to email: [feng.zhang1@uwaterloo.ca](mailto:feng.zhang1@uwaterloo.ca)
 <!--
 **fengzhang789/fengzhang789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
