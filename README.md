@@ -4,6 +4,15 @@ I'm Feng, a second year Computer Science student at the University of Waterloo!
 
 When I'm not busy with school work, you can likely catch me building side projects or reading a good book. 
 
+<details>
+<summary>I'm currently reading...</summary>
+<ul>
+  <li>What Every Programmer Should Know About Memory</li>
+  <li>Designing Data-Intensive Applications</li>
+  <li>Design Patterns by the gang of four</li>
+</ul>
+</details>
+
 Check out my website: [https://www.fengzhang.work/](https://www.fengzhang.work/).
 
 If you need to reach me, feel free to email: [feng.zhang1@uwaterloo.ca](mailto:feng.zhang1@uwaterloo.ca)
