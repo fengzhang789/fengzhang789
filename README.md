@@ -10,6 +10,7 @@ When I'm not busy with school work, you can likely catch me building side projec
   <li>What Every Programmer Should Know About Memory</li>
   <li>Designing Data-Intensive Applications</li>
   <li>Design Patterns by the gang of four</li>
+  <li>Mark Brooker's Engineering Blogs!</li>
 </ul>
 </details>
 
