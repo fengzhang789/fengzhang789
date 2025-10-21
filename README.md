@@ -2,7 +2,7 @@
 
 I'm Feng, a second year Computer Science student at the University of Waterloo!
 
-When I'm not busy with school work, you can likely catch me building side projects or reading a good book. 
+When I'm not busy with school work, you can likely catch me building side projects or reading a good book. I'm currently working on an AI integrated CI/CD system... More to come very soon!
 
 <details>
 <summary>I'm currently reading...</summary>
