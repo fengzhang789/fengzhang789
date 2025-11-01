@@ -15,6 +15,13 @@ When I'm not busy with school work, you can likely catch me building side projec
 </ul>
 </details>
 
+Languages I have experience in:
+- C/C++
+- Java
+- Python
+- Typescript/Javascript
+- C#
+
 Check out my website: [https://www.fengzhang.work/](https://www.fengzhang.work/).
 
 If you need to reach me, feel free to email: [feng.zhang1@uwaterloo.ca](mailto:feng.zhang1@uwaterloo.ca)
