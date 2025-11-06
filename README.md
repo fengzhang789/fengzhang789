@@ -12,6 +12,7 @@ When I'm not busy with school work, you can likely catch me building side projec
   <li>Design Patterns by the gang of four</li>
   <li>Mark Brooker's Engineering Blogs!</li>
   <li>Planescale blog on Postgres 17 vs 18 and Async IO</li>
+  <li>Introduction to compilers and language design</li>
 </ul>
 </details>
 
