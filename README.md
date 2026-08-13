@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-I'm Feng, a second year Computer Science student at the University of Waterloo!
+I'm Feng, a third year Computer Science student at the University of Waterloo!
 
 When I'm not busy with school work, you can likely catch me building side projects or reading a good book.
 
 <details>
-<summary>I'm currently reading...</summary>
+<summary>Here are some of my favourite technical books/blogs:</summary>
 <ul>
   <li>What Every Programmer Should Know About Memory</li>
   <li>Designing Data-Intensive Applications</li>
   <li>Design Patterns by the gang of four</li>
   <li>Mark Brooker's Engineering Blogs!</li>
-  <li>Planescale blog on Postgres 17 vs 18 and Async IO</li>
+  <li>Planetscale blog on Postgres 17 vs 18 and Async IO</li>
   <li>Introduction to compilers and language design</li>
   <li>Beej's Introduction to Network Programming</li>
 </ul>
@@ -23,8 +23,6 @@ Languages I have experience in:
 - Python
 - Typescript/Javascript
 - C#
-
-Check out my website: [https://www.fengzhang.work/](https://www.fengzhang.work/).
 
 If you need to reach me, feel free to email: [feng.zhang1@uwaterloo.ca](mailto:feng.zhang1@uwaterloo.ca)
 <!--
